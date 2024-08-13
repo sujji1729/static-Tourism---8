@@ -1,0 +1,133 @@
+
+.tourisum-back {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.tourisum-card {
+    background-color: white;
+    text-align: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 5px;
+}
+
+.tourisum-button {
+    border-radius: 20px;
+    color: white;
+    background-color: #25b1cc;
+    width: 120px;
+}
+
+.div1-fp {
+    background-image: url('https://tse4.mm.bing.net/th?id=OIP.YlEGhZPqNrQYUKSWtWi-JgHaE7&pid=Api&P=0&h=180');
+    height: 100vh;
+    background-size: cover;
+}
+
+.div2-fp {
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 12px;
+    cursor: pointer;
+}
+
+.img-fp {
+    height: 80px;
+    width: 80px;
+}
+
+.head-tajmahal-fp {
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.para-fp {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.head-favo-fp {
+    color: white;
+    padding: 15px;
+    font-size: 30px;
+
+}
+
+.button-fp {
+    border-radius: 20px;
+    width: 100px;
+    padding: 4px;
+    margin: 12px;
+}
+
+.div-background-pics {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.top-head-pics {
+    color: white;
+    font-family: "Roboto";
+    padding: 10px;
+    font-weight: bold;
+}
+
+.ccard-pics {
+    background-color: white;
+    height: 350px;
+    padding: 7px;
+}
+
+.bottom-head-pics {
+    font-family: "Roboto";
+    font-weight: bold;
+    color: black;
+    font-size: 40px;
+}
+
+.para-pics {
+    font-weight: 100;
+}
+
+.padd-pics {
+    padding: 25px;
+}
+
+.video-background {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.video-head {
+    color: white;
+    font-family: "Roboto";
+    padding: 10px;
+    font-weight: bold;
+}
+
+.ccard-video {
+    background-color: white;
+    height: 350px;
+    padding: 7px;
+}
+
+.bottom-head-video {
+    font-family: "Roboto";
+    font-weight: bold;
+    color: black;
+    font-size: 40px;
+}
+
+.para-video {
+    font-weight: bold;
+}
+
+.padd-video {
+    padding: 25px;
+}
